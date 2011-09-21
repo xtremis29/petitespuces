@@ -3,6 +3,7 @@ require("template.php");
 $temp = new template("Master.html");
 $temp->render();
 ?>
+<!-- Un autre style de commentaire -->
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <temp:templateContent xmlns:temp="http://templates"
 	xmlns="http://www.w3.org/1999/xhtml">
