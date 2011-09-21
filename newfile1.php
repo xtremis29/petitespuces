@@ -18,7 +18,7 @@ class ShoppingCart
 
 	function __construct()
 	{
-		
+
 	}
 }
 ?>
